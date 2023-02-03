@@ -29,12 +29,9 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
-package-lock.json
 
 # vercel
 .vercel
-
-package-lock.json
 
 # static folder for DigitalOcean App Platform
 _static
